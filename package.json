@@ -1,0 +1,23 @@
+{
+  "name": "snakejs",
+  "version": "1.0.0",
+  "description": "Snake",
+  "dependencies": {
+    "typescript": "^4.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "tsc": "tsc",
+    "build": "cp src/index.html dist/ && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrew-peng/snakejs.git"
+  },
+  "author": "Andrew-peng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andrew-peng/snakejs/issues"
+  },
+  "homepage": "https://github.com/Andrew-peng/snakejs#readme"
+}
