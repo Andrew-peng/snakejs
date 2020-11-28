@@ -8,7 +8,7 @@
   "devDependencies": {},
   "scripts": {
     "tsc": "tsc",
-    "build": "cp src/index.html dist/ && tsc"
+    "build": "cp src/index.html dist/ && cp static/logo.png dist/ && tsc"
   },
   "repository": {
     "type": "git",
